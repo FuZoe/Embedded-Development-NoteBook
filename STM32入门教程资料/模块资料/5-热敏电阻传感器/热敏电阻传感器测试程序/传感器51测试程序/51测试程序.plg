@@ -1,0 +1,344 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\π§◊˜\÷∆∞Ê≥…π¶\YL-38 ¥´∏–∆˜œµ¡–\51+AVRø™∑¢∞Â51¥Æø⁄ ∏˜∂Àø⁄≤‚ ‘≥Ã–Ú\1.uvproj
+Project File Date:  07/14/2011
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling 1.c...
+1.C(53): warning C290: missing return value
+linking...
+Program Size: data=10.0 xdata=0 code=123
+creating hex file from "51≤‚ ‘≥Ã–Ú"...
+"51≤‚ ‘≥Ã–Ú" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling 1.c...
+1.C(53): warning C290: missing return value
+linking...
+Program Size: data=10.0 xdata=0 code=123
+creating hex file from "51≤‚ ‘≥Ã–Ú"...
+"51≤‚ ‘≥Ã–Ú" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling 1.c...
+1.C(17): error C141: syntax error near 'z', expected ')'
+1.C(19): error C141: syntax error near 'i'
+1.C(19): error C202: 'i': undefined identifier
+1.C(20): error C202: 'i': undefined identifier
+1.C(21): error C202: 'j': undefined identifier
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling 1.c...
+1.C(17): error C141: syntax error near 'z', expected ')'
+1.C(20): error C202: 'z': undefined identifier
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling 1.c...
+1.C(61): error C208: 'delay1ms': too many actual parameters
+1.C(67): error C208: 'delay1ms': too many actual parameters
+Target not created
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling 1.c...
+1.C(45): warning C290: missing return value
+linking...
+Program Size: data=10.0 xdata=0 code=119
+creating hex file from "51≤‚ ‘≥Ã–Ú"...
+"51≤‚ ‘≥Ã–Ú" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling 1.c...
+1.C(45): warning C290: missing return value
+linking...
+Program Size: data=10.0 xdata=0 code=119
+creating hex file from "51≤‚ ‘≥Ã–Ú"...
+"51≤‚ ‘≥Ã–Ú" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling 1.c...
+1.C(67): warning C209: '_delay': too few actual parameters
+1.C(80): warning C206: 'delay1ms': missing function-prototype
+1.C(51): warning C290: missing return value
+linking...
+*** WARNING L1: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  DELAY1MS
+    MODULE:  1.obj (1)
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  DELAY1MS
+    MODULE:  1.obj (1)
+    ADDRESS: 0027H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  DELAY1MS
+    MODULE:  1.obj (1)
+    ADDRESS: 002DH
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  DELAY1MS
+    MODULE:  1.obj (1)
+    ADDRESS: 0033H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  DELAY1MS
+    MODULE:  1.obj (1)
+    ADDRESS: 0039H
+Program Size: data=10.0 xdata=0 code=138
+creating hex file from "51≤‚ ‘≥Ã–Ú"...
+"51≤‚ ‘≥Ã–Ú" - 0 Error(s), 8 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling 1.c...
+1.C(67): warning C209: '_delay': too few actual parameters
+1.C(72): warning C206: 'delay1ms': missing function-prototype
+1.C(51): warning C290: missing return value
+linking...
+*** WARNING L1: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  DELAY1MS
+    MODULE:  1.obj (1)
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  DELAY1MS
+    MODULE:  1.obj (1)
+    ADDRESS: 0019H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  DELAY1MS
+    MODULE:  1.obj (1)
+    ADDRESS: 001FH
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  DELAY1MS
+    MODULE:  1.obj (1)
+    ADDRESS: 0025H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  DELAY1MS
+    MODULE:  1.obj (1)
+    ADDRESS: 002BH
+Program Size: data=10.0 xdata=0 code=124
+creating hex file from "51≤‚ ‘≥Ã–Ú"...
+"51≤‚ ‘≥Ã–Ú" - 0 Error(s), 8 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling 1.c...
+1.C(67): warning C209: '_delay': too few actual parameters
+1.C(72): warning C206: 'delay1ms': missing function-prototype
+linking...
+*** WARNING L1: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  DELAY1MS
+    MODULE:  1.obj (1)
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  DELAY1MS
+    MODULE:  1.obj (1)
+    ADDRESS: 0019H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  DELAY1MS
+    MODULE:  1.obj (1)
+    ADDRESS: 001FH
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  DELAY1MS
+    MODULE:  1.obj (1)
+    ADDRESS: 0025H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  DELAY1MS
+    MODULE:  1.obj (1)
+    ADDRESS: 002BH
+Program Size: data=10.0 xdata=0 code=124
+creating hex file from "51≤‚ ‘≥Ã–Ú"...
+"51≤‚ ‘≥Ã–Ú" - 0 Error(s), 7 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling 1.c...
+1.C(67): warning C209: '_delay': too few actual parameters
+1.C(72): warning C206: 'delay1ms': missing function-prototype
+linking...
+*** WARNING L1: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  DELAY1MS
+    MODULE:  1.obj (1)
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  DELAY1MS
+    MODULE:  1.obj (1)
+    ADDRESS: 0019H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  DELAY1MS
+    MODULE:  1.obj (1)
+    ADDRESS: 001FH
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  DELAY1MS
+    MODULE:  1.obj (1)
+    ADDRESS: 0025H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  DELAY1MS
+    MODULE:  1.obj (1)
+    ADDRESS: 002BH
+Program Size: data=10.0 xdata=0 code=124
+creating hex file from "51≤‚ ‘≥Ã–Ú"...
+"51≤‚ ‘≥Ã–Ú" - 0 Error(s), 7 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling 1.c...
+1.C(68): warning C209: '_delay': too few actual parameters
+1.C(73): warning C206: 'delay1ms': missing function-prototype
+linking...
+*** WARNING L1: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  DELAY1MS
+    MODULE:  1.obj (1)
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  DELAY1MS
+    MODULE:  1.obj (1)
+    ADDRESS: 0019H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  DELAY1MS
+    MODULE:  1.obj (1)
+    ADDRESS: 001FH
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  DELAY1MS
+    MODULE:  1.obj (1)
+    ADDRESS: 0025H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  DELAY1MS
+    MODULE:  1.obj (1)
+    ADDRESS: 002BH
+Program Size: data=10.0 xdata=0 code=124
+creating hex file from "51≤‚ ‘≥Ã–Ú"...
+"51≤‚ ‘≥Ã–Ú" - 0 Error(s), 7 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling 1.c...
+1.C(68): warning C209: '_delay': too few actual parameters
+1.C(73): warning C206: 'delay1ms': missing function-prototype
+linking...
+*** WARNING L1: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  DELAY1MS
+    MODULE:  1.obj (1)
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  DELAY1MS
+    MODULE:  1.obj (1)
+    ADDRESS: 0019H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  DELAY1MS
+    MODULE:  1.obj (1)
+    ADDRESS: 001FH
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  DELAY1MS
+    MODULE:  1.obj (1)
+    ADDRESS: 0025H
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  DELAY1MS
+    MODULE:  1.obj (1)
+    ADDRESS: 002BH
+Program Size: data=10.0 xdata=0 code=124
+creating hex file from "51≤‚ ‘≥Ã–Ú"...
+"51≤‚ ‘≥Ã–Ú" - 0 Error(s), 7 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling 1.c...
+1.C(68): warning C209: '_delay': too few actual parameters
+linking...
+Program Size: data=10.0 xdata=0 code=103
+creating hex file from "51≤‚ ‘≥Ã–Ú"...
+"51≤‚ ‘≥Ã–Ú" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling 1.c...
+1.C(68): warning C209: '_delay': too few actual parameters
+linking...
+Program Size: data=10.0 xdata=0 code=103
+creating hex file from "51≤‚ ‘≥Ã–Ú"...
+"51≤‚ ‘≥Ã–Ú" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling 1.c...
+1.C(68): warning C209: '_delay': too few actual parameters
+linking...
+Program Size: data=10.0 xdata=0 code=100
+creating hex file from "51≤‚ ‘≥Ã–Ú"...
+"51≤‚ ‘≥Ã–Ú" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling 1.c...
+1.C(68): warning C209: '_delay': too few actual parameters
+linking...
+Program Size: data=10.0 xdata=0 code=97
+creating hex file from "51≤‚ ‘≥Ã–Ú"...
+"51≤‚ ‘≥Ã–Ú" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling 1.c...
+1.C(68): warning C209: '_delay': too few actual parameters
+linking...
+Program Size: data=10.0 xdata=0 code=97
+creating hex file from "51≤‚ ‘≥Ã–Ú"...
+"51≤‚ ‘≥Ã–Ú" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling 1.c...
+1.C(68): warning C209: '_delay': too few actual parameters
+linking...
+Program Size: data=10.0 xdata=0 code=104
+creating hex file from "51≤‚ ‘≥Ã–Ú"...
+"51≤‚ ‘≥Ã–Ú" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling 1.c...
+1.C(68): warning C209: '_delay': too few actual parameters
+linking...
+Program Size: data=10.0 xdata=0 code=104
+creating hex file from "51≤‚ ‘≥Ã–Ú"...
+"51≤‚ ‘≥Ã–Ú" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling 1.c...
+1.C(68): warning C209: '_delay': too few actual parameters
+linking...
+Program Size: data=10.0 xdata=0 code=104
+creating hex file from "51≤‚ ‘≥Ã–Ú"...
+"51≤‚ ‘≥Ã–Ú" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling 1.c...
+1.C(68): warning C209: '_delay': too few actual parameters
+linking...
+Program Size: data=10.0 xdata=0 code=104
+creating hex file from "51≤‚ ‘≥Ã–Ú"...
+"51≤‚ ‘≥Ã–Ú" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling 1.c...
+1.C(68): warning C209: '_delay': too few actual parameters
+linking...
+Program Size: data=10.0 xdata=0 code=104
+creating hex file from "51≤‚ ‘≥Ã–Ú"...
+"51≤‚ ‘≥Ã–Ú" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling 1.c...
+1.C(70): warning C209: '_delay': too few actual parameters
+linking...
+Program Size: data=10.0 xdata=0 code=104
+creating hex file from "51≤‚ ‘≥Ã–Ú"...
+"51≤‚ ‘≥Ã–Ú" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling 1.c...
+1.C(70): warning C209: '_delay': too few actual parameters
+linking...
+Program Size: data=10.0 xdata=0 code=104
+creating hex file from "51≤‚ ‘≥Ã–Ú"...
+"51≤‚ ‘≥Ã–Ú" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling 1.c...
+1.C(66): warning C209: '_delay': too few actual parameters
+linking...
+Program Size: data=10.0 xdata=0 code=104
+creating hex file from "51≤‚ ‘≥Ã–Ú"...
+"51≤‚ ‘≥Ã–Ú" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling 1.c...
+1.C(66): warning C209: '_delay': too few actual parameters
+linking...
+Program Size: data=10.0 xdata=0 code=104
+creating hex file from "51≤‚ ‘≥Ã–Ú"...
+"51≤‚ ‘≥Ã–Ú" - 0 Error(s), 1 Warning(s).

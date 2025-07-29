@@ -1,0 +1,16 @@
+E:\VS\CS\14-串口助手\串口助手\串口助手\bin\Debug\串口助手 V1.0.exe
+E:\VS\CS\14-串口助手\串口助手\串口助手\obj\Debug\串口助手.Form1.resources
+E:\VS\CS\14-串口助手\串口助手\串口助手\obj\Debug\串口助手.Properties.Resources.resources
+E:\VS\CS\14-串口助手\串口助手\串口助手\obj\Debug\串口助手.csproj.GenerateResource.Cache
+E:\VS\CS\14-串口助手\串口助手\串口助手\obj\Debug\串口助手 V1.0.exe
+E:\VS\CS\14-串口助手\串口助手\串口助手\obj\Debug\串口助手 V1.0.pdb
+E:\VS\CS\14-串口助手\串口助手\串口助手\bin\Debug\串口助手 V1.0.pdb
+E:\VS\CS\14-串口助手\串口助手\串口助手\obj\Debug\串口助手.csprojResolveAssemblyReference.cache
+E:\教程\STM32入门教程\资料\工具软件\串口助手\串口助手-工程源码\串口助手\obj\Debug\串口助手.csprojResolveAssemblyReference.cache
+E:\教程\STM32入门教程\资料\工具软件\串口助手\串口助手-工程源码\串口助手\obj\Debug\串口助手.Form1.resources
+E:\教程\STM32入门教程\资料\工具软件\串口助手\串口助手-工程源码\串口助手\obj\Debug\串口助手.Properties.Resources.resources
+E:\教程\STM32入门教程\资料\工具软件\串口助手\串口助手-工程源码\串口助手\obj\Debug\串口助手.csproj.GenerateResource.Cache
+E:\教程\STM32入门教程\资料\工具软件\串口助手\串口助手-工程源码\串口助手\bin\Debug\串口助手 V1.1.exe
+E:\教程\STM32入门教程\资料\工具软件\串口助手\串口助手-工程源码\串口助手\bin\Debug\串口助手 V1.1.pdb
+E:\教程\STM32入门教程\资料\工具软件\串口助手\串口助手-工程源码\串口助手\obj\Debug\串口助手 V1.1.exe
+E:\教程\STM32入门教程\资料\工具软件\串口助手\串口助手-工程源码\串口助手\obj\Debug\串口助手 V1.1.pdb

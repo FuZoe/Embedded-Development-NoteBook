@@ -1,0 +1,6 @@
+USB转串口CH341/CH340的WINDOWS驱动程序安装包
+支持WINDOWS 98/ME/2000/XP/Server 2003/VISTA/
+Server 2008/Win7/Win8 32位/64位，通过微软数字签名认证，
+在计算机端将USB设备仿真为标准Serial串口设备COM?
+包含识别CH34X串口号及监视CH34X设备插拔的库
+用于随产品发行到最终用户
