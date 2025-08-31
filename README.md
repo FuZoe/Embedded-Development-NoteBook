@@ -1,7 +1,7 @@
 # Embedded-Development-NoteBook
 我的嵌入式开发学习笔记
 
-> 📖 **另有分支：**: [STM32学习笔记专栏](https://github.com/FuZoe/Embedded-Development-NoteBook/tree/STM32p)
+> 📖 **另有分支**: [STM32学习笔记专栏](https://github.com/FuZoe/Embedded-Development-NoteBook/tree/STM32p)
 > 
 > 🌟 **欢迎Star**: 如果这个项目对您有帮助，请给个Star支持一下！
 
