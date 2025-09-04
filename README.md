@@ -17,7 +17,6 @@
 
 ### 📁 [C++](./C++/)
 - 存放C++相关的学习笔记和代码示例
-- 目前包含基础配置文件
 
 ### 📁 [CMake](./CMake/)
 - 存放CMake构建系统的学习资料
@@ -32,7 +31,6 @@ Qt框架学习笔记，分为三个主要模块：
 
 #### [QML & QtQuick](./Qt/QML%20&%20QtQuick/)
 - 现代Qt UI开发技术
-- 包含拖放功能的实现示例
 - 📄 [Qt拖放.md](./Qt/QML%20&%20QtQuick/Qt拖放.md)
 
 #### [QtWigets](./Qt/QtWigets/)
