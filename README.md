@@ -31,7 +31,7 @@ Qt框架学习笔记，分为三个主要模块：
 
 #### [QML & QtQuick](./Qt/QML%20&%20QtQuick/)
 - 现代Qt UI开发技术
-- - 📄 [README.md](./Qt/QML%20&%20QtQuick/README.md)
+- 📄 [README.md](./Qt/QML%20&%20QtQuick/README.md)
 - 📄 [Qt拖放.md](./Qt/QML%20&%20QtQuick/Qt拖放.md)
 
 #### [QtWigets](./Qt/QtWigets/)
