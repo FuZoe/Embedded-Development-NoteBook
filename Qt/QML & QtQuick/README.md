@@ -7,8 +7,11 @@
 别的笔记本：
 
 📄 [Qt拖放.md](./Qt/QML%20&%20QtQuick/Qt拖放.md)
+
 📄 [QML国际化.md](./Qt/QML%20&%20QtQuick/QML国际化.md)
+
 Note:
 
 在QML中，文件的最顶层通常应该是Window或Item等根元素
+
 
