@@ -62,5 +62,5 @@
           return app.exec();
       }
 
-编译运行，效果：
+编译运行，效果（左上角文字已变化）：
 <img width="954" height="746" alt="image" src="https://github.com/user-attachments/assets/d8215212-b7c7-4e2e-abd5-c7f705e76bb4" />
