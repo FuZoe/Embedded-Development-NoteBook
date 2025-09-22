@@ -37,17 +37,7 @@ Qt框架学习笔记，分为三个主要模块：
 
 #### [QtWigets](./Qt/QtWigets/)
 - 传统Qt Widgets开发学习
-- 包含10个核心主题的PDF文档：
-  1. [`1.Qt中的基础数据类型.pdf`](./Qt/QtWigets/1.Qt中的基础数据类型.pdf)
-  2. [`2.Qt中的信号槽.pdf`](./Qt/QtWigets/2.Qt中的信号槽.pdf)
-  3. [`3.Qt中容器类型的控件.pdf`](./Qt/QtWigets/3.Qt中容器类型的控件.pdf)
-  4. [`4.Qt中的基础窗口类.pdf`](./Qt/QtWigets/4.Qt中的基础窗口类.pdf)
-  5. [`5.Qt定时器类QTimer.pdf`](./Qt/QtWigets/5.Qt定时器类QTimer.pdf)
-  6. [`6.Qt窗口布局.pdf`](./Qt/QtWigets/6.Qt窗口布局.pdf)
-  7. [`7.Qt事件之事件处理器.pdf`](./Qt/QtWigets/7.Qt事件之事件处理器.pdf)
-  8. [`8.Qt事件之事件分发器.pdf`](./Qt/QtWigets/8.Qt事件之事件分发器.pdf)
-  9. [`9.Qt中多线程的使用.pdf`](./Qt/QtWigets/9.Qt中多线程的使用.pdf)
-  10. [`10.Qt程序的发布和打包.pdf`](./Qt/QtWigets/10.Qt程序的发布和打包.pdf)
+- 包含10个核心主题的PDF文档。
 
 ## 📊 学习进度
 
