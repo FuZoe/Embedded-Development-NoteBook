@@ -13,7 +13,9 @@
     [QMimeData Class](https://doc.qt.io/qt-6/qmimedata.html)
 
 
-对了，我这里有一个[Demo](https://github.com/FuZoe/Controls-on-the-canvas)
+对了，我这里有一些Demo
+[可丝滑拖放控件的画布demo](https://github.com/FuZoe/Controls-on-the-canvas)
+[可复用拖拽组件](https://github.com/FuZoe/component_loader)
 
 我有一些中文文档（考虑到官方的机翻文档太晦涩）
 
