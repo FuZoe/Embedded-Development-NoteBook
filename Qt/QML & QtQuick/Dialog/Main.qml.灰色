@@ -1,0 +1,53 @@
+/*一个简单的对话框，利用Overlay.modal属性，将对话框的周遭内容显示为灰色
+ */
+import QtQuick
+import QtQuick.Controls
+
+Window {
+    width: 800
+    height: 640
+    visible: true
+    
+    // 添加一些背景内容来验证遮罩效果
+    Rectangle {
+        anchors.fill: parent
+        gradient: Gradient {
+            GradientStop { position: 0.0; color: "#87CEEB" }
+            GradientStop { position: 1.0; color: "#98FB98" }
+        }
+        
+        Text {
+            anchors.centerIn: parent
+            text: "这是背景内容\n对话框打开时应该显示为灰色"
+            font.pointSize: 16
+            horizontalAlignment: Text.AlignHCenter
+        }
+    }
+    
+    Component.onCompleted: {
+        dialog.open()
+    }
+    
+    Dialog {
+        id: dialog
+        title: "Title"
+        modal: true  // 确保模态模式
+        anchors.centerIn: parent
+        
+        standardButtons: Dialog.Ok | Dialog.Cancel
+        onAccepted: console.log("Ok clicked")
+        onRejected: console.log("Cancel clicked")
+        
+        // 自定义模态遮罩样式
+        Overlay.modal: Rectangle {
+            color: Qt.rgba(0.5, 0.5, 0.5, 0.6)  // 灰色半透明遮罩
+        }
+        
+        // 对话框内容
+        contentItem: Text {
+            text: "这是对话框内容"
+            horizontalAlignment: Text.AlignHCenter
+            verticalAlignment: Text.AlignVCenter
+        }
+    }
+}
