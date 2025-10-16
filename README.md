@@ -45,8 +45,8 @@ Qt框架学习笔记，分为三个主要模块：
 - [x] Qt Widgets核心概念
 - [x] Qt事件处理机制
 - [x] Qt多线程编程
-- [ ] C++高级特性
-- [ ] Qt Quick/QML开发
+- [x] C++高级特性
+- [x] Qt Quick/QML开发
 
 ## 📖 使用说明
 
